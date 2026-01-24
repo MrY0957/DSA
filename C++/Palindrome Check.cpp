@@ -17,3 +17,4 @@ int main() {
     if(flag) cout << "Palindrome" << endl;
     else cout << "Not Palindrome" << endl;
 }
+

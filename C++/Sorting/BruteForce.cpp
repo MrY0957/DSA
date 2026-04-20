@@ -13,7 +13,7 @@ int main(){
     while(ptr[lp]!='\0'){
         lp++;
     }
-    int i,j,max = ls-lp+1;
+    int i,j, max = ls-lp+1;
     bool found=false;
     bool flag=false;
     for(i=0;i<max;i++){

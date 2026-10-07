@@ -14,7 +14,8 @@ int main() {
     for(i=0;i<n;i++){
         cout<<arr[i]<<" ";
     }
-    cout<<endl; //main pseudocode
+    cout<<endl; 
+    // Insertion Sort Algo- non standard C++
     for(i=0;i<n;i++){
         cur_min =i;
         for(j=i+1;j<n;j++){
